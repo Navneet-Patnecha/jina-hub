@@ -200,7 +200,7 @@ From Jina 0.4.10 onwards, Jina Hub is referred as a Git Submodule in [`jina-ai/j
 
 ## Contributing
 
-We welcome all kinds of contributions from the open-source community, individuals and partners. Without your active involvement, Jina won't be successful.
+We are welcoming  all kinds of contributions from the open-source community, individuals and partners. Without your active involvement, Jina won't be successful.
 
 Please first read [the contributing guidelines](https://github.com/jina-ai/jina/blob/master/CONTRIBUTING.md) before the submission.
 
